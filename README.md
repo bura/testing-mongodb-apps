@@ -1,4 +1,4 @@
 Tests for MongoDB functionality
 ======
 
-To run tests do not need to start the mongod instance, just run gradle test.
+There is no needed in launched mongod to run tests.
